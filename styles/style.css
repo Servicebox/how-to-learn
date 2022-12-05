@@ -93,8 +93,9 @@
   font-weight: normal;
   line-height: 34px;
   margin: 0;
-  margin-bottom: 30px;
-  
+}
+.two-columns__paragraph:nth-last-of-type(2) {
+margin: 30px 0;
 }
 .two-columns__main-text {
   min-width: 784px;
